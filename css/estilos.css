@@ -6,8 +6,22 @@ p, h1, h2, h3, h4, h5, a, ul li, i{
     color: #556a95 !important;
 }
 
+.navbar{
+    background-color: #556a95 !important;
+}
+
+.navbar .collapse ul li a{
+    color: #fff !important;
+}
+
+.navbar .container-fluid button i{
+    color: #fff !important;
+    border: none;
+}
+
 .inicio{
     margin-top: 5%;
+
 }
 
 .container .row .col .container .img-hero{
